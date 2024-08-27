@@ -1,7 +1,7 @@
 # FitnessApp
 A user-friendly fitness application developed using Flutter, focusing on intuitive UI design and seamless user experience.
 
-# Technologies Used
+## Technologies Used
 - Flutter
 - Dart
 - Git
