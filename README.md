@@ -6,7 +6,7 @@ A user-friendly fitness application developed using Flutter, focusing on intuiti
 - Dart
 - Git
 
-# Screenshots
+## Screenshots
 
 ![WhatsApp Image 2024-08-02 at 20 30 58](https://github.com/user-attachments/assets/b84200e0-c26c-4810-913d-b61dcb1b34f0)
 
